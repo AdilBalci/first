@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="490" uniqueCount="208"><si><t>Sicil No</t></si><si><t>Yıllık İzin</t></si><si><t>Çalışma Tipi</t></si><si><t>İNDİRİME KONU EDİLECEKTİR.</t></si><si><t xml:space="preserve">** TAM ZAMANLI PERSONELDE 30 GÜN ÜZERİNDEN YILLIK İZİN HARİÇ, DİĞER İZİNLER DÜŞÜLEREK KALAN GÜN SAYISI </t></si><si><t xml:space="preserve">** KISMİ ZAMANLI PERSONELDE  ARGE İNDİRİMİNE KONU GÜN SAYISI HESAPLAMASI </t></si><si><t>PDKS GÜN SAYISI +GÖREVLENDİRME</t></si><si><t>SSK AY GÜNÜ - TÜM İZİNLER - HAFTASONU- RESMİ TATİL</t></si><si><t>(11+2= 13 GÜN )</t></si><si><t>(30-3-9-2=  16 GÜN)</t></si><si><t>13 GÜN /30 GÜN = 0,4333</t></si><si><t>(16*0,4333  = 6,93 YANİ 7 GÜN İNDİRİME KONU GÜN SAYISI )</t></si><si><t xml:space="preserve">İNSAN KAYNAKLARI </t></si><si><t>Görevi</t></si><si><t>Öğrenim Durumu</t></si><si><t>Teşvik Oranı</t></si><si><t xml:space="preserve">Teşvik Oranı: </t></si><si><t>Doktora</t></si><si><t>Temel Bil. YL</t></si><si><t>Yüksek Lisans</t></si><si><t>Temel Bil. Lisans</t></si><si><t>Lisans ve diğer</t></si><si><t>Sıra
+No</t></si><si><t>DESTEK PERSONELİ</t></si><si><t>TEKNİSYEN</t></si><si><t>ARAŞTIRMACI</t></si><si><t>LİSANS</t></si><si><t>YÜKSEK LİSANS</t></si><si><t>ÖN LİSANS</t></si><si><t>LİSE</t></si><si><t>ÖN LİSANS (ÖĞRENCİ)</t></si><si><t>LİSANS (ÖĞRENCİ)</t></si><si><t>Tahsil Durumu</t></si><si><t>DOKTORA ÜSTÜ</t></si><si><t>DOKTORA</t></si><si><t>DOKTORA (ÖĞRENCİ)</t></si><si><t>YÜKSEK LİSANS (ÖĞRENCİ)</t></si><si><t>DİĞER</t></si><si><t>T.C. Kimlik No</t></si><si><t>Tam Zaman Eşdeğeri Ar-Ge Personeli</t></si><si><t>Çalışılan Gün Sayısı:</t></si><si><t>Resmi Tatil Gün Sayısı:</t></si><si><t>Günlük Çalışma Süresi:</t></si><si><t>Ay Gün Sayısı:</t></si><si><t>Hafta Sonu Gün Sayısı:</t></si><si><t>PDKS (Saat)</t></si><si><t>TAM ZAMANLI</t></si><si><t>KISMİ ZAMANLI</t></si><si><t>Yıl</t></si><si><t>Ay</t></si><si><t>Tarih</t></si><si><t>Gün</t></si><si><t>Tatil Günü Adı</t></si><si><t>Gün Sayısı</t></si><si><t>YILBAŞI</t></si><si><t>ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI</t></si><si><t>EMEK VE DAYANIŞMA GÜNÜ</t></si><si><t>ATATÜRK’Ü ANMA GENÇLİK VE SPOR BAYRAMI</t></si><si><t>RAMAZAN BAYRAMI ARİFESİ</t></si><si><t>RAMAZAN BAYRAMI</t></si><si><t>15 TEMMUZ DEMOKRASİ VE DİRENME HAKKI GÜNÜ</t></si><si><t>ZAFER BAYRAMI</t></si><si><t>KURBAN BAYRAMI ARİFESİ</t></si><si><t>KURBAN BAYRAMI</t></si><si><t>CUMHURİYET BAYRAMI</t></si><si><t>YIL:</t></si><si><r><rPr><b /><u /><sz val="11" /><color theme="0" /><rFont val="Calibri" /><family val="2" /><charset val="162" /><scheme val="minor" /></rPr><t>SGK BİLDİRİMİ</t></r><r><rPr><b /><sz val="11" /><color theme="0" /><rFont val="Calibri" /><family val="2" /><charset val="162" /><scheme val="minor" /></rPr><t xml:space="preserve">
+İNDİRİME KONU Toplam 
+Ar-Ge Gün Sayısı</t></r></si><si><t>Hasta sonunun izin içinde kalması halinde</t></si><si><t>Hafta 
+Sonu</t></si><si><t>Resmi 
+Tatil</t></si><si><r><t xml:space="preserve">5746 
+ve 
+5510
+</t></r><r><rPr><b /><sz val="11" /><rFont val="Calibri" /><family val="2" /><charset val="162" /><scheme val="minor" /></rPr><t>KONTROL Ay Gün Sayısı</t></r></si><si><t>Çalışılan 
+Gün</t></si><si><t>Çalışılacak Gün Sayısı</t></si><si><t>LİSANS - TEMEL BİLİMLER</t></si><si><t>YÜKSEK LİSANS - TEMEL BİLİMLER</t></si><si><t>Ücretsiz 
+İzin</t></si><si><t>Süt 
+İzni</t></si><si><t>Doğum 
+İzni</t></si><si><t>Babalık 
+İzni</t></si><si><t>Ölüm 
+İzni</t></si><si><t>Mazeret 
+İzni</t></si><si><t xml:space="preserve">
+Evlilik 
+İzni
+</t></si><si><t xml:space="preserve">
+Raporlu 
+Gün 
+Sayısı</t></si><si><t xml:space="preserve">
+İşten Ayrılma 
+Tarihi</t></si><si><t xml:space="preserve">
+İşe Başlama 
+Tarih</t></si><si><t>Adı Soyadı</t></si><si><t xml:space="preserve">
+PDKS 
+Saat
+</t></si><si><t xml:space="preserve">
+Kart 
+Unutma
+</t></si><si><t xml:space="preserve">
+PDKS
+Normal
+Çalışma</t></si><si><t xml:space="preserve">
+PDKS 
+Gün Sayısı</t></si><si><t xml:space="preserve">
+PDKS
+Fazla
+Mesai</t></si><si><t xml:space="preserve">
+PDKS
+Telafi Çalışması</t></si><si><t xml:space="preserve">
+Ay Gün 
+Sayısı</t></si><si><t>Adam 
+Ay</t></si><si><t>Lisans mezuniyetleri uygun değil</t></si><si><t>Ön lisans / lisans öğrenci</t></si><si><t>Yüksek lisans / doktora öğrenci</t></si><si><t>Veri girilecek</t></si><si><t>Kontrol edilecek</t></si><si><r><t xml:space="preserve">Diğer
+(Gün)
+</t></r><r><rPr><b /><sz val="11" /><color rgb="FFFF0000" /><rFont val="Calibri" /><family val="2" /><charset val="162" /><scheme val="minor" /></rPr><t>(Oryantasyon, toplantı,5510 vs.)</t></r></si><si><r><t xml:space="preserve">
+Dışarıda geçirilen süreler
+
+</t></r><r><rPr><b /><sz val="11" /><color rgb="FFFF0000" /><rFont val="Calibri" /><family val="2" /><charset val="162" /><scheme val="minor" /></rPr><t>(Saat)</t></r></si><si><r><t xml:space="preserve">
+Ar-Ge Merkezi Dışında Geçirilen R&amp;D Zamanı
+</t></r><r><rPr><b /><sz val="14" /><color rgb="FFFF0000" /><rFont val="Calibri" /><family val="2" /><charset val="162" /><scheme val="minor" /></rPr><t>(Saat)</t></r></si><si><t>Esnek Çalışma Destek Oranı</t></si><si><t xml:space="preserve">
+Ücretli İzin Ödüllendirme 
+(Doğum Günü 
+vs.) İzni</t></si><si><t>ESNEK ÇALIŞMA (GÜN)</t></si><si><t>ESNEK ÇALIŞMA (SAAT)</t></si><si><r><t xml:space="preserve">Esnek Çalışma Kapsamında Ar-Ge Merkezi Dışında Geçirilen Teşvikli Süre </t></r><r><rPr><b /><sz val="11" /><color rgb="FFFF0000" /><rFont val="Calibri" /><family val="2" /><charset val="162" /><scheme val="minor" /></rPr><t>(Saat)</t></r></si><si><t>Bilişim Personeli</t></si><si><t>Evet</t></si><si><t>Hayır</t></si><si><t>NET AR-GE GÜNÜ</t></si><si><t>Bilişim Personeli Ar-Ge Merkezi içinde geçirilen süre</t></si><si><t>Bilişim Dışı Personel Ar-Ge Merkezi içinde geçirilen süre</t></si><si><t>Bilişim Dışı Personel uzaktan çalışma süresi</t></si><si><t>Bilişim Personeli uzaktan çalışma süresi</t></si><si><t>GÖKHAN SORUCU</t></si><si><t>YUSUF GÜRKAN ÖMÜR</t></si><si><t>ALİ ALHAN</t></si><si><t>CEM DEMİREL</t></si><si><t>MEHMET BURAK AYDIN</t></si><si><t>SAVAŞ ARAN</t></si><si><t>HÜSEYİN ÇAKIR</t></si><si><t>MURAT MEMİŞ</t></si><si><t>GÖKHAN ÇATALKAYA</t></si><si><t>HÜSEYİN SANCAR ALPARSLAN</t></si><si><t>ERDEM TETİK</t></si><si><t>HARUN ERKUL</t></si><si><t>BAMSIHAN ÇARBOĞA</t></si><si><t>ÖMER CAN DUMAN</t></si><si><t>BEKİR ÖZYURT</t></si><si><t>ORHAN VELİ YILDIZ</t></si><si><t>AHMET HARTOKA</t></si><si><t>DİLEK ÇETİN TULAZOĞLU </t></si><si><t>MERT DÖNMEZ</t></si><si><t>EMİN ERÇELİK</t></si><si><t>EREN TEVFİK  AYATA</t></si><si><t>WAQAS MOEED</t></si><si><t>SEDAT BAŞARAN</t></si><si><t>ABDULLAH SAMET  KALKANCI</t></si><si><t>TUFAN BAKIRCIGİL</t></si><si><t>ERDOĞAN NARLI</t></si><si><t>ERCAN KÜÇÜKERTAN</t></si><si><t>AYSEL CEREN BENEKLİ</t></si><si><t>MEHMET KULALI</t></si><si><t>BAHAR KOZAL</t></si><si><t>UFUK DEMİR ALAN</t></si><si><t>CAN ÖZ</t></si><si><t>GÜRHAN GEDİK</t></si><si><t>KAĞAN PEHLİVAN</t></si><si><t>GÖKHAN OCAK</t></si><si><t>NAZLI KARAMAN</t></si><si><t>MUSA SARI</t></si><si><t>FURKAN ÇOLMABEY</t></si><si><t>DENİZ PALA</t></si><si><t>HÜSEYİN TÜREN</t></si><si><t>ZİYE METE GÜRLER</t></si><si><t>SEREN ÇARIKÇI</t></si><si><t>AYŞE NURSU SAVAŞKAN</t></si><si><t>İREM SATKAN OLUÇ</t></si><si><t xml:space="preserve">ABDUL MOEED </t></si><si><t>HAKAN ULUSKAN</t></si><si><t>EGE UYSAL</t></si><si><t>AYŞEGÜL ECE YILMAZ</t></si><si><t>AHMET MELİH ÇELİK</t></si><si><t>BUSE BÖLÜK</t></si><si><t>MEHMET EMİN DALKILIÇ</t></si><si><t>PEYMAN BAGHDADI</t></si><si><t>GÜRKAN TOPKARA</t></si><si><t>BERKER ÖN</t></si><si><t>KUBİLAY KIRTIL</t></si><si><t>ALİ SEMİH YILMAZ</t></si><si><t>Lise</t></si><si><t>Lisans</t></si><si><t>Ön Lisans</t></si><si><t>WAQAR AHMED</t></si><si><t>COVID DGS GÜNLER</t></si><si><t xml:space="preserve"> DGS SAAT</t></si><si><t>PUANTAJ</t></si><si><t>EGE ÖZÇELİK</t></si><si><t>ABDULLAH TUTUN</t></si><si><t>1 Ocak Yılbaşı</t></si><si><t>29 Mart Ramazan Bayramı Arifesi</t></si><si><t>30 Mart Ramazan Bayramı 1.gün</t></si><si><t>31 Mart Ramazan Bayramı 2.gün</t></si><si><t>1 Nisan Ramazan Bayramı 3.gün</t></si><si><t>23 Nisan Ulusal Egemenlik ve Çocuk Bayramı</t></si><si><t>1 Mayıs Emek ve Dayanışma Günü</t></si><si><t>19 Mayıs Atatürk’ü Anma, Gençlik ve Spor Bayramı</t></si><si><t>5 Haziran Kurban Bayramı Arifesi</t></si><si><t>6 Haziran Kurban Bayramı 1.gün</t></si><si><t>7 Haziran Kurban Bayramı 2.gün</t></si><si><t>8 Haziran Kurban Bayramı 3.gün</t></si><si><t>9 Haziran Kurban Bayramı 4.gün</t></si><si><t>15 Temmuz Demokrasi ve Millî Birlik Günü</t></si><si><t>30 Ağustos Zafer Bayramı</t></si><si><t>28 Ekim Cumhuriyet Bayramı Arifesi</t></si><si><t>29 Ekim Cumhuriyet Bayramı</t></si><si><t>Mart</t></si><si><t>Çarşamba</t></si><si><t>Muhammed Hüseyin Yavuz</t></si><si><t>Pınar Dilbaz</t></si><si><t>Reha  Erceğiz</t></si><si><t>Hasan Korkmaz</t></si><si><t>EZGİ KARAAHMET</t></si><si><t>BARIŞ AYDINAY</t></si><si><t>MELEK ESEMEN ERTAŞ</t></si><si><t>GÜLCE SERBEST LEYLEK</t></si><si><t>GÖKÇEN KOCAGÖNCÜ ÖZERGEN</t></si></sst>
